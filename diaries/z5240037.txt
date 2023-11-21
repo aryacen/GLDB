@@ -1,0 +1,74 @@
+Week 1
+
+On Wednesday the group formed together and briefly discussed about the projects that we prefer and projects that we want to avoid. By the end of the day,
+it has come down to 3 projects, which were Movie Finder, Car Space Renting System, and Book Recommendation System. We've decided to sleep on it until
+Friday, when we would ultimately choose 1 of the 3 projects. We've decided to choose Movie Finder on Friday.
+
+Week 2
+
+On Wednesday, we met during the tutorial and discussed additional functionalities that we have to implement (2 of which will be novel). We ended up
+coming up with 4 additional functionalities on top of the 7 functionalities given from the project spec. We had another meeting on Saturday to assign
+each group member with their functionalities.
+
+Week 3
+
+On the third week, we were focused on completing our project proposal assessment. On Wednesday, we were discussing on some of the novel functions
+and we decided to change one of the novel functions. We were told by our tutor that one of our functions are technically illegal since it was
+changing the main functionality of the movie finder system. We've then changed it to a function to easily plan a movie watch together with
+your friends. After we've finalized our functions, we start working on the project proposal.
+
+Week 4
+
+On Wednesday, a couple of us met briefly during the tutor, some couldn't come because of the train system being down. We discussed on how to setup
+the cloud database to store our user information as well as the movies. We also discussed briefly on how we are going to store and integrate the
+frontend and backend. I worked heavily on starting the server up and integrating it with MongoDB during Thursday and Friday, so the team can
+start working together on our functions.
+
+Week 5
+
+Week 5 was demo week, and our team had problems integrating frontend and backend, so our demo didnt go as sweetly as planned. I made some extra
+security to register function (password needs to have an uppercase letter, lowercase letter, symbol, and number.
+Username needs to be between 4 and 50 characters).
+
+Week 6
+
+On week 6, I was working on some of the frontend integration with James regarding user token and how the website should know when
+a user is logged in or not. At the end of the day, we got the gist of it and it was working although it may not be the most practical
+and efficient way.
+
+Week 7
+
+Week 7 was a lot of work for me. On Wednesday our tutor mentioned that our home page needs to be 'fancier'. So I worked with Alvina to completely redesign the
+frontend. She worked on figma on the web designs as well as the logo designs, and I coded it on the frontend. Then, I redesigned the backend forgotpassword function
+and integrated it with our frontend system. I also improved on user token and how our frontend system recognizes if a user is logged in or not. I basically finished
+the whole of user authentication functions on both backend and frontend by the end of Week 7. 
+
+Week 8
+
+On week 8, I worked on 'my profile' page, and got some basic functions like changing username and email to be working on the frontend. I was also able to display the
+user profile picture on the Nav section and on 'my profile' page. The user is also able to change their profile picture by clicking on their profile picture on 'my
+profile' page. I also worked with Alvina on the search function. She made the function offline (not on our project folder) and I helped her integrate it to our backend
+and frontend. I've also made the premium logo on the Nav bar work (it will open a Modal on hover and user can click a button that will take them to a payment page).
+After the demo, I finished working on the backend and frontend of our friends functionality, as well as the frontend of the banned list functionality. I also helped
+Will start the dark mode function, I've explained to him how to use 'useContext' and included dark mode context in AuthContext.
+
+Week 9
+
+On week 9, I made a lot of performance improvements. Before, everytime we switch pages, the navbar fetches the user data everytime. I have used state now so it'll
+reduce loading time on pages. I also made some UI improvements on wishlist, friends, and profile pages. I finished implementing a function so now the user is able to
+pick their preferred genres, and it will then give some recommendations on the home page based on the selected genres. I have also finished the watched movies
+function. So everytime a user tags a movie as watched, it will update the home pages in their friends' pages. The movies the user's friends have watched will be
+displayed under 'What your friends are watching'. I also finished the border color function, so now premium users are able to change the border color of their profile
+pictures. I also added a button in user's profile page to change password (It wasn't there before so user can only change password by resetting it). I also realized
+that some of our user stories can be expanded. For example, we had 'As a registered user, I want to be friends with other users so I can interact with my friends.'
+This can be expanded to 5 other user stories. Which consists of sending a friend request, accepting a friend request, declining a friend request, removing a friend,
+and viewing all friend requests and the user's friendlist. 
+
+Week 10
+
+On the final week, I've done a lot of bug fixing. Will's dark mode function was not fully integrated to all of the pages and some still had bugs in them like dark mode
+turning into light mode sometimes for no reason. Non-pro user can randomly get dark mode. So I worked on fixing everything related to dark mode and I also added error
+messages in the frontend for Register/Login, change password/ change email/ and change username. I had discovered last minute that we had to do a browse function based
+on genre or director, so I've quickly done that function. This function allows the user to pick any genres to browse, and it'll be sorted from most popular to
+least popular and alphabetical order (if rating is the same). Unfortunately, it doesn not seem like the team has enough time to finish all of our user stories. On Friday,
+I worked on finalizing our source code (adding README.md and make file). And then, I worked on the report, writing down the functionalities and description for all my functions throughout sprint 1-3. 

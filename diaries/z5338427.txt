@@ -1,0 +1,63 @@
+Week 1
+
+Group formed. Discussed which project we wanted to choose. Scrum master was 
+appointed. 
+
+
+Week 2
+
+Joined Jira and Github Classroom. Discussed what functionalities the project
+should feature. Initial discussion of novel functionalities. Initial discussion
+of how we would work with a database.
+
+
+Week 3
+
+Decided on novel features. Still yet to solve the database issue, but decided
+instead to focus working on the project proposal. I worked on writing the
+sprints & user stories of proposal. Other members worked on flowchart diagrams.
+
+
+Week 4
+
+Project proposal was submitted. Sprint 1 started. Further group discussion of 
+how exactly our system would function. One member informed us they were 
+currently interning and was considering dropping 3900 but ultimately decided 
+to stay. We are very grateful for this. End of week I decided to focus on 
+frontend aspect of the sprint. 
+
+
+Week 5
+
+After the devastating news following our first demo, we knew we had to pick up
+the pace of our sprints. I created the register and home html pages which 
+another member adapted to one which had frontend and backend integrated. This 
+is a huge step in progression. Near the end of the week I started on the 
+retrospective, and the others worked heavily on finishing the initial sprint. 
+
+
+Week 6
+
+I did not work much on the project during flexi week. 
+
+
+Week 7
+
+The week after this would be the demo, so the group wanted to catch up on both
+sprints and have a more functional web app. I worked with Hobart on reviews and
+we practiced some pair programming during our lab. 
+
+
+Week 8
+
+We had our demo with the tutor's feedback still saying we needed to catch up on
+older sprints and refine the frontend in terms of ux/ui. Weekend I started 
+implementing a darkmode feature for all the pages but it was still very buggy.
+
+
+Week 9
+
+The group stayed back after the wednesday lab to work on their parts. I 
+received help from Arya to fix my darkmode issues. On the weekend I tried 
+finalising the darkmode features, with only a couple pages needing to be 
+tweaked. The following Monday I would unavoidably contract covid.

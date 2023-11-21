@@ -1,0 +1,47 @@
+Week 1
+
+We formed a group and named it Green Lamp.
+We made a decision on the topics, which is the movie finder.
+We choosed the scrum master.
+I've done some brainstorming on what the novel functions to be.
+As a team we decided to use Python for backend and Javascript for frontend.
+
+Week 2
+
+On Wednesday we decided the functions we are going to make. I provided some ideas about novel functions.
+On Saturday we devided those functions into more details. I was assigned to do the user story about the forum and movie calendar.
+I write one user stroy to cover these two function.
+
+Week 3
+
+We finished the proposal this week.
+I did some of the flow chart (for forum and advanced searching) and sprint explainations. Also did some novel function explaination.
+
+Week 4
+
+We decided the platform to use (nodejs and mongodb and reactjs). I implemented the wishlist functions in the nodejs backend.
+
+Week 5
+
+We finished the backend of sprint 1 and some of the frontend. I 
+
+Week 6
+
+We fixed some bug in the first sprint and connected the backend and frontend. I build the movie details backend.
+
+Week 7
+
+We get start on the second sprint on Sunday night week6.  I did the review function backend.
+
+Week 8
+
+We didn't finish a lot for the second sprint. The search function was unfinished, but the auth functions for frontend worked fine. The movie details page is done, but the review function was lacking ffrontend components. I did the movie details and review frontend. 
+
+Week 9
+
+We fixed the search function. I'm doing the watch together function and calendar function, also make the movie details page prettier.
+
+Week 10
+
+We finalized our design for the website and started to do the report. The final demo goes well (I guess), most of the user stories are covered. After the final demo, we made some changes and finished some unfinished codes. I added the calendar and watch together requests function. I also added the delete reviews and view banned users' functionality, which I should have added weeks ago but didn't realize that our user are not able to unban a user after banned them until the last hour.
+I also made part of the report.

@@ -1,0 +1,32 @@
+Week 1
+
+We formed our group on the first meeting and introduced ourselves.
+We decided to form a rough idea of our roles depending on our code experiences.
+We chose a topic by the end of the week (Movie Finder) so we brainstormed some
+novel functionalities.
+There were no assigned tasks since it was only the first week.
+
+
+
+
+Week 2
+This week, we brainstormed user stories and sprints on our local discord server
+We also added user stories onto jira and created our github classroom environment
+Each of us were then assigned to research which technologies to use in order to build the system.
+
+
+Week 3
+
+
+We also had to pick a different novel functionality the tutor suggested something else.
+We each presented our ideas and findings on how the system architecture would look like.
+I specifically researched how IMBD's and TMDB's public API will interact with our system.
+We picked the best ones to put into the proposal.
+We had worked on the project proposal.
+The main obstacle was getting the proposal done on time due to the minimal timeframe
+and disorganisation of planning/distributing tasks.
+
+Planned for next week: have the basic database ready to go so that other functions could be 
+assigned to people to complete.
+
+
